@@ -1,0 +1,12 @@
+**/*.iml
+**/.idea/**
+**/target/**
+*.bak
+**/generated/**
+**/node_modules/**
+**/bower_components/**
+**/dist/**
+**/.tmp/**
+*.rar
+**/.sonar/**
+

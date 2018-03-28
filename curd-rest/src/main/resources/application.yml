@@ -1,0 +1,9 @@
+config:
+  center:
+    zookeeper:
+      #connect: 192.168.2.220:2181
+      connect: 10.43.66.134:2181,10.43.66.135:2181,10.43.66.136:2181
+    application:
+      name: log-rest-server
+server:
+  port: 8081
